@@ -1,0 +1,41 @@
+@import url("http://fast.fonts.net/t/1.css?apiType=css&projectid=c7da88bc-60d1-4aa2-a9ba-e7d1f643ec85");
+
+@font-face{
+    font-family:"Texta W00 Light";
+    src:url("/assets/fonts/c8254439-b405-4a42-9f8f-3ba4b4fe1238.eot?#iefix");
+    src:url("/assets/fonts/c8254439-b405-4a42-9f8f-3ba4b4fe1238.eot?#iefix") format("eot"),
+        url("/assets/fonts/2cdcea13-980e-41af-a651-1e997db88e67.woff2") format("woff2"),
+        url("/assets/fonts/dd6b6de3-f704-453f-ac6b-c5e2b202a4d7.woff") format("woff"),
+        url("/assets/fonts/ecfc03d6-4840-4ec5-99aa-5f751da319b8.ttf") format("truetype"),
+        url("/assets/fonts/a356b797-0b6c-45c2-99b2-58bc0eb66f67.svg#a356b797-0b6c-45c2-99b2-58bc0eb66f67") format("svg");
+}
+
+@font-face{
+    font-family:"Texta W00 Regular";
+    src:url("/assets/fonts/2acf0ee4-0daa-4505-913c-ded4a07aba12.eot?#iefix");
+    src:url("/assets/fonts/2acf0ee4-0daa-4505-913c-ded4a07aba12.eot?#iefix") format("eot"),
+        url("/assets/fonts/429d58ce-0b31-4869-b879-b71c2024a05f.woff2") format("woff2"),
+        url("/assets/fonts/06bd5c2b-12d1-4ad4-b23f-0c70142155a2.woff") format("woff"),
+        url("/assets/fonts/f8ab4821-d94b-42bb-9ed7-d5b4e36a30d0.ttf") format("truetype"),
+        url("/assets/fonts/14e07503-789b-4a9d-9b79-e6fecbebe151.svg#14e07503-789b-4a9d-9b79-e6fecbebe151") format("svg");
+}
+
+@font-face{
+    font-family:"Texta W00 Italic";
+    src:url("/assets/fonts/f729818f-7ad0-4c97-b377-165499dfe456.eot?#iefix");
+    src:url("/assets/fonts/f729818f-7ad0-4c97-b377-165499dfe456.eot?#iefix") format("eot"),
+    url("/assets/fonts/f565ed5e-1dea-455e-b9bc-e58823b00a89.woff2") format("woff2"),
+    url("/assets/fonts/8f0947b3-175f-4856-8bc2-5c87e15cf660.woff") format("woff"),
+    url("/assets/fonts/c118acaa-af33-40dd-b62a-264f982081d3.ttf") format("truetype"),
+    url("/assets/fonts/2237364f-6623-4b10-b51f-a95b8673f06f.svg#2237364f-6623-4b10-b51f-a95b8673f06f") format("svg");
+}
+
+@font-face{
+    font-family:"Texta W00 Heavy";
+    src:url("/assets/fonts/54492705-cb6e-4a67-86fc-83680f4e5270.eot?#iefix");
+    src:url("/assets/fonts/54492705-cb6e-4a67-86fc-83680f4e5270.eot?#iefix") format("eot"),
+    url("/assets/fonts/7f181530-6e16-4134-859d-1764c04d35c9.woff2") format("woff2"),
+    url("/assets/fonts/a2387200-b32f-46af-8049-1527274118bd.woff") format("woff"),
+    url("/assets/fonts/c019c753-e75b-4266-a9ac-8263ec17566f.ttf") format("truetype"),
+    url("/assets/fonts/e043fe27-15df-4442-8d2b-9a1a9b36a628.svg#e043fe27-15df-4442-8d2b-9a1a9b36a628") format("svg");
+}

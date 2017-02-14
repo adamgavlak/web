@@ -1,0 +1,103 @@
+.contact__list
+    margin 5rem 0 1rem
+    padding 0 2em
+    display flex
+    justify-content space-around
+    align-items space-around
+    
+    .col-xs-6
+        margin 0 0 4em
+
+    
+.tweet-me
+    color #1da1f2
+    font-family "Texta W00 Heavy"
+    
+    &:hover
+        text-decoration underline
+
+time = 0.4s
+    
+.email, .twitter, .codepen, .github
+    display flex
+    flex-flow column
+    align-items center
+    justify-content center
+    
+    .name
+        padding-top 28px
+        font-size 32px
+        font-weight 300
+        color text_accent_color
+        font-family "Texta W00 Light"
+        transition all time
+    
+    
+.codepen
+    svg
+        width 70px
+        height 70px
+        
+        path
+            fill #bbb
+            transition all time
+            
+    &:hover
+        .name 
+            color #222
+        svg path
+            fill #222
+            
+
+.twitter
+    svg
+        width 64px
+        height 70px
+        
+        path
+            fill #BBB
+            transition all time    
+
+.twitter:hover 
+    .name
+        color #1da1f2
+    
+    svg path
+        fill #1da1f2
+        
+    
+.email
+    svg
+        width 70px
+        height 70px
+        
+        path
+            fill #BBB
+            transition all time
+    
+email = #6c0
+
+.email:hover 
+    .name
+        color email
+        
+    svg path
+        fill email
+        
+.github
+    svg
+        width 61px
+        height 70px
+        
+        path
+            fill #BBB
+            transition all time    
+    
+.github:hover 
+    .name
+        color #222
+    
+    svg path
+        fill #222
+    
+    

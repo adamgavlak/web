@@ -1,0 +1,20 @@
+bp(type)
+  tablet-portrait-upper-boundary = 900px
+  tablet-landscape-upper-boundary = 1200px
+  desktop-upper-boundary = 1800px
+  
+  if (type == medium)
+    @media only screen and (min-width: 40em)
+      {block}
+    
+  if (type == large)
+    @media only screen and (min-width: 64em)
+      {block}
+      
+  if (type == xlarge)
+    @media only screen and (min-width: 90em)
+      {block}
+      
+  if (type == xxlarge)
+    @media only screen and (min-width: 120em)
+      {block}
